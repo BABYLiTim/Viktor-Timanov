@@ -59,7 +59,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" title="Intellij IDEA" alt="Intellij IDEA" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40" />&nbsp
-  <img src="https://playwright.dev/img/playwright-logo.svg" title="Playwright" alt="Playwright" width="40" height="40" />&nbsp
+  <a href="https://github.com/BABYLiTim/playwright-conduit-tests.git" target="_blank">
+    <img src="https://playwright.dev/img/playwright-logo.svg" title="Playwright" alt="Playwright" width="40" height="40" />
+  </a>&nbsp
   
   
 </div>
